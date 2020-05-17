@@ -1,0 +1,12 @@
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\bin\Debug\BasicNeuralNetwork.exe.config
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\bin\Debug\BasicNeuralNetwork.exe
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\bin\Debug\BasicNeuralNetwork.pdb
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\bin\Debug\Newtonsoft.Json.dll
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\bin\Debug\Newtonsoft.Json.xml
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\obj\Debug\BasicNeuralNetwork.csprojAssemblyReference.cache
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\obj\Debug\BasicNeuralNetwork.Form1.resources
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\obj\Debug\BasicNeuralNetwork.Properties.Resources.resources
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\obj\Debug\BasicNeuralNetwork.csproj.GenerateResource.cache
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\obj\Debug\BasicNeuralNetwork.csproj.CopyComplete
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\obj\Debug\BasicNeuralNetwork.exe
+D:\blogs\Youtube\My Chanel\ECoding\AI_ML\Build Neural network don't use library\Application\Youtube\BasicNeuralNetwork\BasicNeuralNetwork\obj\Debug\BasicNeuralNetwork.pdb
